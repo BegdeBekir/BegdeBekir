@@ -14,12 +14,12 @@
 
 ### 👨‍💻 About Me
 
-- 🌱 **Current Focus:** Pursuing an M.Sc. in Cybersecurity (GPA 4.0/4.0) with research on automated SAST/DAST verification of JWT implementations.
-- 🛡️ **Professional Role:** Offensive Security Engineer at Fuzul Holding, leading web, mobile, API, network penetration testing, and Red Team operations.
-- 🏆 **Certifications:** Holds industry-recognized credentials including `eWPTXv2`, `eMAPT`, and `ASCP`.
-- 📝 **Sharing Knowledge:** Regularly writing technical articles and security insights on [www.bekirbegde.com](https://www.bekirbegde.com).
-- 💬 **Ask me about:** Penetration Testing, Python, C#, JavaScript, and DevSecOps / SSDLC integration.
-- 📫 **Reach me at:** bekirbegde@gmail.com
+- 🌱 **Current Focus:** Pursuing an M.Sc. in Cybersecurity (GPA 4.0/4.0) with research on automated SAST/DAST verification of JWT implementations[cite: 1].
+- 🛡️ **Professional Role:** Offensive Security Engineer at Fuzul Holding, leading web, mobile, API, network penetration testing, and Red Team operations[cite: 1].
+- 🏆 **Certifications:** Holds industry-recognized credentials including `eWPTXv2`, `eMAPT`, and `ASCP`[cite: 1].
+- 📝 **Sharing Knowledge:** Regularly writing technical articles and security insights on [www.bekirbegde.com](https://www.bekirbegde.com)[cite: 1].
+- 💬 **Ask me about:** Penetration Testing, Python, C#, JavaScript, and DevSecOps / SSDLC integration[cite: 1].
+- 📫 **Reach me at:** bekirbegde@gmail.com[cite: 1]
 
 ---
 
@@ -46,12 +46,12 @@
     <!-- Databases -->
     <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>&nbsp;
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>&nbsp;
-    <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/></a>&nbsp;
+    <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/microsoft-sql-server/microsoft-sql-server-icon.svg" alt="mssql" width="40" height="40"/></a>&nbsp;
 
     <!-- DevOps & Infra -->
-    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
-    <a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
+    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>&nbsp;
+    <a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>&nbsp;
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>&nbsp;
     <a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>&nbsp;
 </p>
 
